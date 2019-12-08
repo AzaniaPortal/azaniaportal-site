@@ -5,7 +5,7 @@ sections:
       - label: Learn More
         url: /features
     content: A missing persons portal
-    image: images/hero.png
+    image: ''
     section_id: hero
     title: Azania Portal
     type: section_hero
