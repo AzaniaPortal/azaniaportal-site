@@ -14,12 +14,9 @@ sections:
       - actions:
           - label: Learn More
             url: /features
-        content: >-
-          Nam pulvinar ante eu ultricies volutpat. Aenean hendrerit, eros sed
-          aliquet luctus, lorem risus volutpat dolor, nec dignissim diam neque
-          consequat ex.
+        content: Our whatsapp bot
         image: images/feature1.png
-        title: The Best Feature of Your Services
+        title: Whatsapp Bot
       - actions:
           - label: Learn More
             url: /features
