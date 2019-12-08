@@ -7,7 +7,7 @@ header:
   logo_img: ''
   menu:
     actions:
-      - label: Get Started
+      - label: REPORT
         url: /signup
   title: Azania Portal
 footer:
