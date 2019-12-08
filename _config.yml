@@ -11,20 +11,17 @@ header:
         url: /signup
   title: Azania Portal
 footer:
-  content: '&copy; Stackbit. All rights reserved.'
+  content: '&copy; Azania Portal. All rights reserved.'
   has_nav: true
   has_social: true
   has_subscribe: true
-  links:
-    - new_window: true
-      text: Made with Stackbit
-      url: 'https://www.stackbit.com'
-  logo_img: images/logo_alt.png
+  links: []
+  logo_img: ''
   nav_title: Company
   social_title: Community
   subscribe_content: Stay up to date with our latest developments.
   subscribe_title: Subscribe
-  tagline: SaaS theme by Stackbit
+  tagline: Missing Persons Portal
 sass:
   indentWidth: 4
   precision: 10
