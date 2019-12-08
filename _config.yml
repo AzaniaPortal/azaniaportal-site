@@ -4,7 +4,7 @@ permalink: '/:title/'
 palette: orange
 header:
   has_nav: true
-  logo_img: images/logo.png
+  logo_img: ''
   menu:
     actions:
       - label: Get Started
