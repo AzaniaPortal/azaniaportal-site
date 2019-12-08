@@ -15,26 +15,20 @@ sections:
           - label: Learn More
             url: /features
         content: Our whatsapp bot
-        image: images/feature1.png
+        image: /images/2.jpg
         title: Whatsapp Bot
       - actions:
           - label: Learn More
             url: /features
-        content: >-
-          Etiam vel urna sed massa egestas vulputate eu a velit. Sed ut nisl nec
-          sapien interdum luctus. Cras rhoncus condimentum metus sit amet
-          auctor.
+        content: Facebook messenger
         image: images/feature2.png
-        title: Awesome Feature of Your Services
+        title: Messenger Bot
       - actions:
           - label: Learn More
             url: /features
-        content: >-
-          In ante enim, lobortis quis congue vel, finibus sit amet mi. Aenean
-          quis venenatis sem. Proin eget massa id metus eleifend maximus sit
-          amet nec urna.
+        content: The Azania Portal web app
         image: images/feature3.png
-        title: Cool Feature of Your Services
+        title: Azania Portal
     section_id: features
     subtitle: 'All platforms users can use, to report missing persons'
     title: Platforms
